@@ -28,6 +28,6 @@
  <a href="https://discord.gg/RoohGomes#8296" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:robsonmmfata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/robson-gomes-3baa6423a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  https://discord.com/channels/@me/976659052392226846/976949801298063400
+
  ![Snake animation](https://github.com/carlosmmfata/carlosmmfata/blob/output/github-contribution-grid-snake.svg)
  
