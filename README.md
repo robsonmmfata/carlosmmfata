@@ -1,14 +1,7 @@
 <h1>Olá,Me Chamo Robson Alex,Seja Bem Vindo Ao Meu Github!</h1>
 - Trabalho Com Front-end </br>
 - Estudando Node js,React js,React Native,Python,Vue Js,Mongodb. </br>
-<div align="center">
-    <table>
-        <tr>
-            <td><img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="179" width="190"></td>
-            <td><img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" height="179" width="180"></td>
-        </tr>
-    </table>
- </div>
+
 <div align="center">
   <a href="https://github.com/carlosmmfata">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carlosmmfata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,6 +29,14 @@
  <a href="https://discord.gg/RoohGomes#8296" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:robsonmmfata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/robson-gomes-3baa6423a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <div align="center">
+    <table>
+        <tr>
+            <td><img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="179" width="190"></td>
+            <td><img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" height="179" width="180"></td>
+        </tr>
+    </table>
+ </div>
 
  ![Snake animation](https://github.com/carlosmmfata/carlosmmfata/blob/output/github-contribution-grid-snake.svg)
  
