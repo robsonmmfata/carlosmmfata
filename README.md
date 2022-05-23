@@ -41,6 +41,6 @@
  ![Snake animation](https://github.com/carlosmmfata/carlosmmfata/blob/output/github-contribution-grid-snake.svg)</br>
 ## <b><i>Meus Principais Projetos:</b></i>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmmfata&repo=api-crud-mongodb-e-nodejs&theme=radical)](https://github.com/carlosmmfata/github-readme-stats)</br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmmfata&repo=app-delivery-lanchonete&theme=radical)](https://github.com/carlosmmfata/github-readme-stats)<
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmmfata&repo=app-delivery-lanchonete&theme=radical)](https://github.com/carlosmmfata/app-delivery-lanchonete)<
 
  
