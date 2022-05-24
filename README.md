@@ -1,6 +1,6 @@
 <h1>Olá,Me Chamo Robson Alex,Seja Bem Vindo Ao Meu Github!</h1>
 - Trabalho Com Front-end </br>
-- Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ioninc E,Angular. </br>
+- Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ionic E,Angular. </br>
 
 <div align="center">
   <a href="https://github.com/carlosmmfata">
